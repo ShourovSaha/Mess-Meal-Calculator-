@@ -1,0 +1,6 @@
+c:\users\shourovsaha\documents\visual studio 2017\Projects\MessMealCalcualtorApp\MessMealCalcualtorApp\bin\Debug\MessMealCalcualtorApp.exe.config
+c:\users\shourovsaha\documents\visual studio 2017\Projects\MessMealCalcualtorApp\MessMealCalcualtorApp\bin\Debug\MessMealCalcualtorApp.exe
+c:\users\shourovsaha\documents\visual studio 2017\Projects\MessMealCalcualtorApp\MessMealCalcualtorApp\bin\Debug\MessMealCalcualtorApp.pdb
+c:\users\shourovsaha\documents\visual studio 2017\Projects\MessMealCalcualtorApp\MessMealCalcualtorApp\obj\Debug\MessMealCalcualtorApp.csprojResolveAssemblyReference.cache
+c:\users\shourovsaha\documents\visual studio 2017\Projects\MessMealCalcualtorApp\MessMealCalcualtorApp\obj\Debug\MessMealCalcualtorApp.exe
+c:\users\shourovsaha\documents\visual studio 2017\Projects\MessMealCalcualtorApp\MessMealCalcualtorApp\obj\Debug\MessMealCalcualtorApp.pdb
